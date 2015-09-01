@@ -17,3 +17,4 @@ openFile
 -Xms256m
 -Xmx1024m
 hi
+hi again
