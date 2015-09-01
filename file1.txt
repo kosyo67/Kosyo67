@@ -16,3 +16,4 @@ openFile
 -Dosgi.requiredJavaVersion=1.7
 -Xms256m
 -Xmx1024m
+hi
