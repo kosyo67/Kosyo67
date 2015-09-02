@@ -20,3 +20,26 @@ hi
 hi again
 hi Dayna
 another test
+
+Hi kosyo!
+Hi Marieta! hi mom!
+-startup
+-vm C:\Program Files (x86)\Java\jre7\bin
+plugins/org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar
+
+256M
+-showsplash
+org.eclipse.platform
+--launcher.XXMaxPermSize
+256m
+--launcher.defaultAction
+openFile
+--launcher.appendVmargs
+-vmargs
+-Dosgi.requiredJavaVersion=1.7
+-Xms256m
+-Xmx1024m
+hi
+hi again
+hi Dayna
+another test
