@@ -1,3 +1,4 @@
+another change 8 27.10.2015	
 new chnage to file 2 
 new chnage to file 3 loccaly made
 kosio
@@ -16,5 +17,7 @@ Draw3DCabinet;
 			END; {Case}
 another change 4 27.10.2015			
 another change 5 27.10.2015				
+another change 6 27.10.2015				
+another change 7- 27.10.2015	
 
 
