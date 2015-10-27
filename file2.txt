@@ -3,3 +3,17 @@ new chnage to file 3 loccaly made
 kosio
 new chnage to file 2  26.10.2015
 new chnage  2 to file 2  26.10.2015
+Draw3DCabinet;  
+			CASE gEndFinish OF 
+				4:	BEGIN
+					SET3DRot(LNewObj, 0, 0, -90, 0,0, 0);
+					Move3DObj(LNewObj,0,-gLength,0);
+					END;
+				5:	BEGIN
+					SET3DRot(LNewObj, 0, 0, -90, 0,0, 0);
+					Move3DObj(LNewObj,0,-gLength,0);
+					END;
+			END; {Case}
+			
+
+
