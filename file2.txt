@@ -14,6 +14,7 @@ Draw3DCabinet;
 					Move3DObj(LNewObj,0,-gLength,0);
 					END;
 			END; {Case}
+another change 4 27.10.2015			
 			
 
 
