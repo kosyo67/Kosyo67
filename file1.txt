@@ -1,1 +1,3 @@
 just change
+git help [-a|--all] [-g|--guide]
+	   [-i|--info|-m|--man|-w|--web] [COMMAND|GUIDE]
