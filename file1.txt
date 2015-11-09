@@ -1,10 +1,2 @@
-this is new change 1
-hi this is my new change
-Greetings 
-Fellow developer:)
-hi kosio!
-Fellow developer:)
-hi kosio!
-12231131
-Ji sflskdfl;akf;
-sfasgffs
+git help [-a|--all] [-g|--guide]
+	   [-i|--info|-m|--man|-w|--web] [COMMAND|GUIDE]
